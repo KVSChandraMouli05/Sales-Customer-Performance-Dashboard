@@ -1,9 +1,6 @@
 # Sales-Customer-Performance-Dashboard
 Power BI dashboard analyzing sales and customer performance (2015–2018)
 
-
-# Sales & Customer Performance Dashboard
-
 This project analyzes business performance from 2015 to 2018 using Power BI.
 
 ## Tools Used
